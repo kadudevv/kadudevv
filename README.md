@@ -2,7 +2,7 @@
 
 Sou estudante de Desenvolvimento de Sistemas e estou começando minha trajetória como desenvolvedor.
 
-Hoje trabalho principalmente com Python e Flask, além de usar IA bastante no desenvolvimento, criação de prompts, testes de ideias e solução de problemas.
+Hoje estudo e desenvolvo principalmente com Python e Flask, além de usar IA bastante no desenvolvimento, criação de prompts, testes de ideias e solução de problemas.
 
 Também estou participando da FEBRACE 2026, então pretendo colocar por aqui tanto projetos pessoais quanto projetos acadêmicos.
 
