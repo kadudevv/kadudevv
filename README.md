@@ -1,16 +1,30 @@
-## Hi there 👋
+# Fala, eu sou o Kadu 👋
 
-<!--
-**kadudevv/kadudevv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante de Desenvolvimento de Sistemas e estou começando minha trajetória como desenvolvedor.
 
-Here are some ideas to get you started:
+Hoje trabalho principalmente com Python e Flask, além de usar IA bastante no desenvolvimento, criação de prompts, testes de ideias e solução de problemas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Também estou participando da FEBRACE 2026, então pretendo colocar por aqui tanto projetos pessoais quanto projetos acadêmicos.
+
+## O que eu uso
+
+- Python
+- Flask
+- Git
+- GitHub
+- IA aplicada ao desenvolvimento
+
+## Atualmente estudando
+
+- Desenvolvimento web
+- Backend
+- Banco de dados
+- Boas práticas com Git e GitHub
+
+## Projetos
+
+Ainda estou organizando meus projetos por aqui. Em breve vou publicar alguns sistemas, projetos web e trabalhos que estou desenvolvendo no curso.
+
+## Contato
+
+Email: **kadudevv@gmail.com**
